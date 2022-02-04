@@ -21,7 +21,7 @@ My best work is pinned below, have a look!
 
 
 
-> tip me
+## Tip me
 |Cryptocurrency|Address|
 |:------------:|:-----:|
 |BTC|bc1q6j77jtlr85mlxde9jp5gm5wt2c3wcdkyr4xfvt|
