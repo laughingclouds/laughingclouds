@@ -18,3 +18,9 @@ Like many things in life, GitHub gists can also be obscured for many. I don't pu
 I am taking my time learning about jekyll and github pages. And you can see what this repository looks like using it, from [here](https://laughingclouds.github.io/laughingclouds/).
 
 My best work is pinned below, have a look!
+
+
+
+> tip me
+> btc
+> bc1q6j77jtlr85mlxde9jp5gm5wt2c3wcdkyr4xfvt
