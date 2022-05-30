@@ -15,6 +15,6 @@ I'm open to any ideas or suggestions.
 
 Like many things in life, GitHub gists can also be obscured for many. I don't put much in here, but you could still [have a look 🙂](https://gist.github.com/laughingclouds).
 
-I am taking my time learning about jekyll and github pages. And you can see what this repository looks like using it, from [here](https://laughingclouds.github.io/laughingclouds/).
+~~I am taking my time learning about jekyll and github pages. And you can see what this repository looks like using it, from [here](https://laughingclouds.github.io/laughingclouds/).~~
 
 My best work is pinned below, have a look!
