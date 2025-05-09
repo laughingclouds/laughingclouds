@@ -1,20 +1,7 @@
-### Hi there
+### Resume
 
-I'm Hemant "laughingclouds" Bhandari (he/him), and this is my GitHub profile. Like myself, it is a constant work in progress.
+This repository serves as my _permanent resume link_, a link that serves visitors a _pdf_ version of my latest resume.
 
-Please feel free to check out my projects.
+Please click on the [``Resume.pdf``](https://github.com/laughingclouds/laughingclouds/blob/public-resume/Resume.pdf) file to open my resume on GitHub. You also have the option of downloading it.
 
-I'm open to any ideas or suggestions.
-<p>
-&nbsp; <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/bhandari-hemant/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-  
-<!--  [![Fiverr Badge](https://img.shields.io/badge/Fiverr-laughingclouds-brightgreen?style=for-the-badge)](https://www.fiverr.com/laughingclouds) -->
-</p>
-
-Like many things in life, GitHub gists can also be obscured for many. I don't put much in here, but you could still [have a look 🙂](https://gist.github.com/laughingclouds).
-
-~~I am taking my time learning about jekyll and github pages. And you can see what this repository looks like using it, from [here](https://laughingclouds.github.io/laughingclouds/).~~
-
-My best work is pinned below, have a look!
+Please download the resume if there are any errors.
