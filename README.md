@@ -6,9 +6,8 @@ Please feel free to check out my projects.
 
 I'm open to any ideas or suggestions.
 <p>
-&nbsp; <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/bhandari-hemant/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+<!-- &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a> -->
   
 <!--  [![Fiverr Badge](https://img.shields.io/badge/Fiverr-laughingclouds-brightgreen?style=for-the-badge)](https://www.fiverr.com/laughingclouds) -->
 </p>
