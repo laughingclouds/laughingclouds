@@ -45,7 +45,7 @@ Some tools/frameworks I've dabbled with till now:
 
 <p>
 &nbsp; <a href="https://www.linkedin.com/in/bhandari-hemant/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-<a href="https://discord.com/users/421318588574728192" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" width="50" /></a>
+<a href="https://discord.com/users/421318588574728192" target="_blank" rel="noopener noreferrer"><img title="laughingclouds" src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" width="50" /></a>
 </p>
 
 > If you get the sudden urge to hire me, here's my [resume](https://github.com/laughingclouds/laughingclouds/tree/public-resume).
