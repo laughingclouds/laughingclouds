@@ -4,7 +4,7 @@
 
 I'm Hemant _"laughingclouds"_ Bhandari (he/him), and this is my GitHub profile. <br> Like myself, it is a constant work in progress.
 
-I've loved programming and computer science since I was in school. These were the only things I could say <br> I was good at - other than Mathematics - and I stuck with them for my college degree (BE CSE).
+I've loved programming and computer science since I was in school. These were the only things I could say I was good at - other than Mathematics - and I stuck with them for my college degree (BE CSE).
 
 I started using linux at school and migrated from Ubuntu, to Pop!_OS, Debian, to finally daily driving [Linux Mint](https://linuxmint.com/) (btw). <br> I wish to contribute to it (and many more foss projects) someday.
 
@@ -48,6 +48,8 @@ Some tools/frameworks I've dabbled with till now:
 <a href="https://discord.com/users/421318588574728192" target="_blank" rel="noopener noreferrer"><img title="laughingclouds" src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" width="50" /></a>
 </p>
 
-> If you get the sudden urge to hire me, here's my [resume](https://github.com/laughingclouds/laughingclouds/tree/public-resume).
+> ~If you get the sudden urge to hire me, here's my [resume](https://github.com/laughingclouds/laughingclouds/tree/public-resume).~
+>
+> I'm preparing for masters, so no joining any organizations for the time being.
 > 
 > Also feel free to check out my projects $\downarrow\downarrow$
