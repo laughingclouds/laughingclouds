@@ -50,8 +50,6 @@ Some tools/frameworks I've dabbled with till now:
 
 > ~If you get the sudden urge to hire me, here's my [resume](https://github.com/laughingclouds/laughingclouds/tree/public-resume).~
 >
-> ~I'm preparing for masters, so no joining any organizations for the time being.~
->
-> Desparately looking for a job, please hire me uwu.
+> I'm preparing for masters, so no joining any organizations for the time being.
 > 
 > Also feel free to check out my projects $\downarrow\downarrow$
